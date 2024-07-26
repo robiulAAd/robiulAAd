@@ -1,8 +1,10 @@
 ### Hi, I'm Robiul Hossain Nur NObi
+
+Expert in PHP,JAVA,MYSQL DATABASE,SQ DATABASE
+
 #### Android App Developer
 Hi! I'm an Android app developer passionate about creating user-friendly mobile applications using Java. I enjoy contributing to open-source projects and collaborating with the developer community. Check out my repositories to see my work!
 
-Skills: PHP / JAVA/ MYSQL DATABASE / SQ DATABASE
 
 
 
